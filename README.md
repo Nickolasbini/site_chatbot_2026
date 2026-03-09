@@ -59,6 +59,6 @@ O projeto foi configurado para ser hospedado gratuitamente no Always Data. Para 
 
 Este código faz parte de uma aula detalhada no canal CódigoPrático.
 
-    Tutorial Completo no YouTube] - https://link-do-seu-video
+    Tutorial Completo no YouTube - https://link-do-seu-video
     Demonstração Online (Always Data) - https://petcarepetcare.alwaysdata.net/
     Hospedagem Hostinger com Desconto - https://hostinger.com.br?REFERRALCODE=QK6NICKOLJTX
